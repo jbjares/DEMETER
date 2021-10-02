@@ -1,0 +1,37 @@
+{
+  "backgroundType": "plain",
+  "plainBackgroundMode": "daylight",
+  "devIntro": "DEMETER",
+  "devDesc": "Welcome to the DEMETER Project!",
+  "mlflowName": "MLFlow",
+  "mlflowURL": "",
+  "mlflowImage": "",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "backgroundImageUrl": "http://hdwpro.com/wp-content/uploads/2017/03/Art-Background-Image.png",
+  "icons": [
+    {
+      "image": "fa-wordpress",
+      "url": "#"
+    },
+    {
+      "image": "fa-github",
+      "url": "#"
+    },
+    {
+      "image": "fa-twitter",
+      "url": "#"
+    },
+    {
+      "image": "fa-instagram",
+      "url": "#"
+    },
+    {
+      "image": "fa-stack-overflow",
+      "url": "#"
+    },
+    {
+      "image": "fa-linkedin",
+      "url": "#"
+    }
+  ]
+}

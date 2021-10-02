@@ -1,0 +1,9 @@
+server {
+    listen       80;
+    server_name demeter.fit.fraunhofer.de;
+    root        /data/www;
+
+    location / {
+        index   index.html index.php;
+    }
+}

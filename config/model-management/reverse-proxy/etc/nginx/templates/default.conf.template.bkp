@@ -1,0 +1,21 @@
+
+
+
+server {
+     listen 80;
+#    listen 80 default_server;
+#    listen [::]:80 default_server;
+    
+    server_name   welcome.demeter.fit.fraunhofer.de;
+#    root        /data/www;
+
+    location / {
+     # index   index.html index.php;
+     proxy_pass http://172.17.0.1:5000;
+    }
+
+}
+
+
+
+
